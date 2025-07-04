@@ -48,7 +48,7 @@ The Vagrantfile defines the following VMs:
 
 ## Preview
 
-![Placeholder for setup preview]("./Screenshot from 2025-06-09 17-19-56.png")
+![Placeholder for setup preview](./manual.png)
 
 ## Usage
 
