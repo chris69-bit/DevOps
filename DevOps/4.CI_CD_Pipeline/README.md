@@ -68,7 +68,5 @@ For any questions or issues, please contact the VisualPath team at:
 - **Email**: chrispineouda@gmail.com
 - **Phone**: +254114173968
 
-- **Email**: chrispineouda@gmail.com
-- **Phone**: +254114173968
 
 ![Placeholder for setup preview](./CI_Architecture.png)
